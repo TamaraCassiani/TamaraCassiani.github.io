@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/4-page-placeholder/",
-    "result": {"data":{"markdownRemark":{"html":"<div class=\"videoWrapper\">\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4SZl1r2O_bY\" frameborder=\"0\" allowfullscreen></iframe>\n</div>\n<p>This an example of page with videos (click and copy embed code for videos on youtube)\n...</p>","frontmatter":{"title":"4. Other placeholder"},"excerpt":"This an example of page with videos (click and copy embed code for videos on youtube)\n..."}},"pageContext":{"slug":"/4-page-placeholder/"}},
+    "result": {"data":{"markdownRemark":{"html":"<div class=\"videoWrapper\">\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4SZl1r2O_bY\" frameborder=\"0\" allowfullscreen></iframe>\n</div>\n<p>This an example of page with videos (click and copy embed code for videos on youtube)\n....</p>","frontmatter":{"title":"4. Other placeholder"},"excerpt":"This an example of page with videos (click and copy embed code for videos on youtube)\n...."}},"pageContext":{"slug":"/4-page-placeholder/"}},
     "staticQueryHashes": ["3159585216","63159454"]}
